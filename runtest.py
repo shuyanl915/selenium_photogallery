@@ -16,6 +16,8 @@ from time import sleep
 import string
 import random
 import lorem
+
+public_ip  = "http://3.17.175.41:5000"
                              
 def test_app():  
     #create a crhome webdriver and install the driver                            
@@ -37,11 +39,11 @@ def test_app():
     print(tag2)
     
     #go to localhost:5002  
-    chrome_driver.get('http://localhost:5002')
+    chrome_driver.get(public_ip)
        
     sleep(1)
     #go to adds
-    chrome_driver.get('http://localhost:5002/add')
+    chrome_driver.get(public_ip + "/add")
 
     sleep(1)
     #get the current url of the driver
@@ -49,7 +51,7 @@ def test_app():
 
     #send the image to the element iamgefile 
     e=chrome_driver.find_element(By.ID, "imagefile")
-    e.send_keys(os.getcwd()+"/image.jpg")
+    e.send_keys(os.getcwd()+"/image.png")
     
     #fill in title,description,tags 
     chrome_driver.find_element(By.ID, "title").send_keys(title)
@@ -62,7 +64,7 @@ def test_app():
     #wait until url changes
     WebDriverWait(chrome_driver, 15).until(EC.url_changes(current_url))
         
-    chrome_driver.get('http://localhost:5002')
+    chrome_driver.get(public_ip)
     #wait until the cbp-item-wrapper shows up (this is new image item UI)
     WebDriverWait(chrome_driver, 15).until(EC.presence_of_element_located((By.XPATH, "//*[@class='cbp-item-wrapper']")))              
 
