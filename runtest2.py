@@ -113,6 +113,8 @@ def test_app():
         img_element = chrome_driver.find_element("tag name", "img")
         src_attribute = img_element.get_attribute("src")
         print("Retrieved S3 URL", src_attribute)
+        # check if S3 URL is non-empty
+        assert src_attribute != ""
 
         print()
 
