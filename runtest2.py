@@ -54,10 +54,12 @@ def test_app(chrome_driver):
         tag2 = s.split(' ')[2]
         tags=tag1+","+tag2
 
+        print("TEST IMAGE FILE: ", image_file)
         print("Expected title", title)
         print("Expected Description", description)
         print("Expected tag1", tag1)
         print("Expected tag2", tag2)
+        print()
 
         sleep(1)
 
@@ -110,6 +112,7 @@ def test_app(chrome_driver):
         print("Returned Description", description_returned)
         print("Returned tag1", tag1_returned)
         print("Returned tag2", tag2_returned)
+        print("\n")
 
 
         #check if the image is the same as the one we uploaded
@@ -118,7 +121,6 @@ def test_app(chrome_driver):
         print("Retrieved S3 URL", src_attribute)
         # check if S3 URL is non-empty
         assert src_attribute != ""
-
 
 
         # Download the image and compare it with the original image
