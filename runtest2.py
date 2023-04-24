@@ -34,7 +34,7 @@ def test_app(chrome_driver):
     
     #go to photo gallery
     chrome_driver.get(public_ip)
-    sleep(3)
+    sleep(2)
 
     folder_path = os.getcwd() + "/images"
     # Get a list of all file paths in the folder

@@ -1,0 +1,45 @@
+1682317769444	geckodriver	INFO	Listening on 127.0.0.1:64418
+1682317769752	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofilesF60qg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682317770254	Marionette	INFO	Marionette enabled
+1682317770486	Marionette	INFO	Listening on port 64426
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64419
+Read port: 64426
+1682317770713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofilesF60qg/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64419/devtools/browser/e9e92897-e907-4ba1-827d-36e25c8c20d1
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+1682317890485	Marionette	INFO	Stopped listening on port 64426
