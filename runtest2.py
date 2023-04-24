@@ -12,6 +12,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.core.utils import ChromeType
 from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.firefox import GeckoDriverManager
+from selenium.webdriver.edge.service import Service as EdgeService
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from time import sleep
 import string
 import random
@@ -22,11 +24,12 @@ from image_comparison import corrupt_image
 import glob
 
 public_ip  = "http://3.17.175.41:5000"
-                             
-def test_app():  
+
+@pytest.mark.parametrize("chrome_driver", [webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install())),webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install())),webdriver.Chrome(service=Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()))])                             
+def test_app(chrome_driver):  
     #create a crhome webdriver and install the driver                            
-    chrome_driver = webdriver.Chrome(service=Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()))
-    # chrome_driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
+
+    # chrome_driver = webdriver.Chrome(service=Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()))
     chrome_driver.maximize_window()
     
     #go to photo gallery
@@ -116,7 +119,7 @@ def test_app():
         # check if S3 URL is non-empty
         assert src_attribute != ""
 
-        print()
+
 
         # Download the image and compare it with the original image
         local_file_path = 'downloaded_image.jpg'
@@ -134,5 +137,17 @@ def test_app():
         sleep(1)
     chrome_driver.close()
 
+
 if __name__ == "__main__":
+    print("begin")
+    print("chrome browser")
+    # chrome_driver = webdriver.Chrome(service=Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()))
     test_app()
+    # print("fox browser")
+    # fox_driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
+    # test_app(fox_driver)
+    # print("edge browser")
+    # edge_driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
+    # test_app(edge_driver)
+    
+    
