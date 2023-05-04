@@ -43,3 +43,404 @@ JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, l
 JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
 JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
 1682317890485	Marionette	INFO	Stopped listening on port 64426
+1683159563344	geckodriver	INFO	Listening on 127.0.0.1:52959
+1683159563633	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileL9zAqN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683159564190	Marionette	INFO	Marionette enabled
+1683159564440	Marionette	INFO	Listening on port 52968
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52968
+WebDriver BiDi listening on ws://127.0.0.1:52960
+1683159564559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileL9zAqN/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52960/devtools/browser/29851f6b-4973-4bfd-8e66-9322022830c9
+1683159620842	geckodriver	INFO	Listening on 127.0.0.1:53115
+1683159621142	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileeQfz6u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683159621580	Marionette	INFO	Marionette enabled
+1683159621795	Marionette	INFO	Listening on port 53123
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53116
+Read port: 53123
+1683159621995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileeQfz6u/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53116/devtools/browser/94075ed1-dce5-4c29-ab07-7c74d930dc64
+1683159681270	geckodriver	INFO	Listening on 127.0.0.1:53230
+1683159681564	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofile1pU0H1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683159682017	Marionette	INFO	Marionette enabled
+1683159682236	Marionette	INFO	Listening on port 53238
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53238
+WebDriver BiDi listening on ws://127.0.0.1:53231
+1683159682343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofile1pU0H1/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53231/devtools/browser/bcab2142-ad2c-4a58-a5b2-74a116795492
+1683159821491	geckodriver	INFO	Listening on 127.0.0.1:53376
+1683159821789	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileaRNYE0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683159822276	Marionette	INFO	Marionette enabled
+1683159822520	Marionette	INFO	Listening on port 53384
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53377
+Read port: 53384
+1683159822804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileaRNYE0/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53377/devtools/browser/d1c71724-13da-419a-91fd-f2b6211dc3b5
+1683159852391	Marionette	INFO	Stopped listening on port 53384
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1683159852658	Marionette	INFO	Stopped listening on port 53238
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1683159852778	Marionette	INFO	Stopped listening on port 53123
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1683159853059	Marionette	INFO	Stopped listening on port 52968
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1683160054702	geckodriver	INFO	Listening on 127.0.0.1:49489
+1683160055002	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileH92JkX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683160055574	Marionette	INFO	Marionette enabled
+1683160055826	Marionette	INFO	Listening on port 49498
+Read port: 49498
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49490
+1683160055938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileH92JkX/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49490/devtools/browser/b41af707-f68e-4d5c-9441-e53681082fd2
+1683160637525	geckodriver	INFO	Listening on 127.0.0.1:49961
+1683160637827	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileWxh3FX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683160638282	Marionette	INFO	Marionette enabled
+1683160638407	Marionette	INFO	Listening on port 49969
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49969
+WebDriver BiDi listening on ws://127.0.0.1:49962
+1683160638597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileWxh3FX/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49962/devtools/browser/9b75b860-0717-4db3-91bb-0bb0b591f2c2
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+1683160832432	Marionette	INFO	Stopped listening on port 49969
+1683162025769	geckodriver	INFO	Listening on 127.0.0.1:54609
+1683162026087	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileFmezjG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683162026516	Marionette	INFO	Marionette enabled
+1683162026730	Marionette	INFO	Listening on port 54621
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54610
+Read port: 54621
+1683162026953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileFmezjG/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54610/devtools/browser/7307f352-32e6-4039-bd8f-296a4d2e4214
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683162245003	geckodriver	INFO	Listening on 127.0.0.1:55745
+1683162245310	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofile936icF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683162245758	Marionette	INFO	Marionette enabled
+1683162245876	Marionette	INFO	Listening on port 55757
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55757
+WebDriver BiDi listening on ws://127.0.0.1:55746
+1683162246069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofile936icF/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55746/devtools/browser/4cdee065-7c4a-4e39-84ba-e428b70482ab
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+1683162423045	geckodriver	INFO	Listening on 127.0.0.1:56743
+1683162423346	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileJaRLoq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683162423811	Marionette	INFO	Marionette enabled
+1683162424040	Marionette	INFO	Listening on port 56755
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56755
+WebDriver BiDi listening on ws://127.0.0.1:56744
+1683162424147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileJaRLoq/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56744/devtools/browser/fb12a9a1-e260-476a-bc8f-3780ec830849
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683162505929	geckodriver	INFO	Listening on 127.0.0.1:57274
+1683162506228	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofilev10xuu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683162506668	Marionette	INFO	Marionette enabled
+1683162506880	Marionette	INFO	Listening on port 57286
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57275
+Read port: 57286
+1683162507077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofilev10xuu/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57275/devtools/browser/8f7d7cf8-2fee-43e2-bc88-443c0fd047ec
+1683162641361	geckodriver	INFO	Listening on 127.0.0.1:57965
+1683162641665	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofilentMBWN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683162642104	Marionette	INFO	Marionette enabled
+1683162642318	Marionette	INFO	Listening on port 57977
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57966
+Read port: 57977
+1683162642520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofilentMBWN/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57966/devtools/browser/e5b2c144-8593-4ac5-b58f-2ed5917f9072
+1683162696838	geckodriver	INFO	Listening on 127.0.0.1:58294
+1683162697137	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofiletUv4kc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683162697582	Marionette	INFO	Marionette enabled
+1683162697795	Marionette	INFO	Listening on port 58306
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:58295
+Read port: 58306
+1683162697997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofiletUv4kc/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58295/devtools/browser/f3359a7c-b6be-4c4b-a777-fad2fd964420
+1683162793327	Marionette	INFO	Stopped listening on port 49498
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1683162798124	Marionette	INFO	Stopped listening on port 55757
+1683162803009	Marionette	INFO	Stopped listening on port 57286
+1683162805047	Marionette	INFO	Stopped listening on port 57977
+1683162807091	Marionette	INFO	Stopped listening on port 58306
+1683162878494	geckodriver	INFO	Listening on 127.0.0.1:59264
+1683162878795	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileaR6MDT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683162879235	Marionette	INFO	Marionette enabled
+1683162879449	Marionette	INFO	Listening on port 59276
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59265
+Read port: 59276
+1683162879642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileaR6MDT/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59265/devtools/browser/7877a968-9259-4320-bb0d-3b62ce860b43
+1683163032941	geckodriver	INFO	Listening on 127.0.0.1:60182
+1683163033234	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofilebrHHjB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683163033587	Marionette	INFO	Marionette enabled
+1683163033791	Marionette	INFO	Listening on port 60196
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 60196
+WebDriver BiDi listening on ws://127.0.0.1:60183
+1683163033946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofilebrHHjB/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60183/devtools/browser/83a08a5a-ba37-4a3d-bae1-d71dfbf40229
+1683163140182	geckodriver	INFO	Listening on 127.0.0.1:60917
+1683163140467	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileSHFDoM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683163140947	Marionette	INFO	Marionette enabled
+1683163141182	Marionette	INFO	Listening on port 60933
+Read port: 60933
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:60918
+1683163141287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileSHFDoM/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60918/devtools/browser/05971f8b-e5cc-423c-89da-d594188eb39d
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683163251883	geckodriver	INFO	Listening on 127.0.0.1:61720
+1683163252177	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileQBtDhX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683163252622	Marionette	INFO	Marionette enabled
+1683163252838	Marionette	INFO	Listening on port 61733
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61721
+Read port: 61733
+1683163252950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofileQBtDhX/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61721/devtools/browser/3a1f8953-f47e-43db-9a69-04c55e6fd4fa
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683163265447	Marionette	INFO	Stopped listening on port 59276
+1683163266956	Marionette	INFO	Stopped listening on port 60196
+1683163280630	geckodriver	INFO	Listening on 127.0.0.1:61944
+1683163280930	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofile6hahT9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683163281392	Marionette	INFO	Marionette enabled
+1683163281599	Marionette	INFO	Listening on port 61956
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61945
+Read port: 61956
+1683163281789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gw/k7_qxx3x2wdd1012ryl5q9w00000gn/T/rust_mozprofile6hahT9/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61945/devtools/browser/17c7964b-285d-46e4-8ac9-9a1ee38020f9
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+JavaScript error: http://3.17.175.41:5000/assets/plugins/jquery-1.12.4.min.js, line 2: Error: Syntax error, unrecognized expression: a[href*=#scroll_]:not([href=#scroll_])
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://3.17.175.41:5000."
+1683163397513	Marionette	INFO	Stopped listening on port 61956
