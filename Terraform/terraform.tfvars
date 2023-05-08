@@ -1,5 +1,5 @@
-AWS_ACCESS_KEY="AKIASUFOPAOOOMCLTRGG"
-AWS_SECRET_KEY="kEF9O6M9xXsNK/sKd7rGNSG+MFKXQy1P6Z3OQ1U+"
+AWS_ACCESS_KEY="your access key"
+AWS_SECRET_KEY="your secret key"
 AWS_REGION="us-east-2"
 BUCKET_NAME="photobucket-team2-cs4803"
 DB_USERNAME="photogallery"
